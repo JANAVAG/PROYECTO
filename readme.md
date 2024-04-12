@@ -1,1 +1,1 @@
-## <div estilo="text-align: centro;" markdown="1">TITULO 1</div>  
+<div align="center"> ## TITULO 1 </div>  
